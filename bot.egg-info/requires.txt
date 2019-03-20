@@ -1,6 +1,0 @@
-apiai
-json
-requests
-pyowm
-datetime
-googletrans
